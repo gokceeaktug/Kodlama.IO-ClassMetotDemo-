@@ -1,0 +1,13 @@
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.exe
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.deps.json
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.runtimeconfig.json
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.runtimeconfig.dev.json
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.dll
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\bin\Debug\netcoreapp3.1\MusteriTakip.pdb
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.csprojAssemblyReference.cache
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.AssemblyInfoInputs.cache
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.AssemblyInfo.cs
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.csproj.CoreCompileInputs.cache
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.dll
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.pdb
+C:\Users\90554\source\repos\MusteriTakip\MusteriTakip\obj\Debug\netcoreapp3.1\MusteriTakip.genruntimeconfig.cache
